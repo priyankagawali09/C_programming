@@ -1,2 +1,2 @@
 # C_programming
-Learning basic programming by  Making projects by enhancing learning experience.
+Learning basic concept C programming by  Making projects by enhancing learning experience.
